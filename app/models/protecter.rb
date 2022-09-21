@@ -1,0 +1,2 @@
+class Protecter < ApplicationRecord
+end
